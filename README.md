@@ -42,10 +42,10 @@ I’m a passionate **developer from India 🇮🇳** who loves building scalable
 
 ---
 
-## 🚀 Featured Projects  
+<!--## 🚀 Featured Projects  
 
-🔹 [**Multi-User PDF Upload System**](#) – A **React + Node.js + MongoDB** project with user/admin logins and PDF uploads.  
-🔹 [**Org Management Portal**](#) – Website with secure secretary logins, file handling, and modern UI.  
+🔹 [**Multi-User PDF Upload System**](#) – A **React + Node.js + MongoDB** project with user/admin logins and PDF uploads.
+🔹 [**Org Management Portal**](#) – Website with secure secretary logins, file handling, and modern UI.  -->
 
 ---
 
