@@ -52,7 +52,7 @@ I’m a passionate **developer from India 🇮🇳** who loves building scalable
 ## 🌍 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vaishnav-nishanth"><img src="https://img.shields.io/badge/-Vaishnav%20Nishanth-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/vaishnavnishanthav"><img src="https://img.shields.io/badge/-Vaishnav%20Nishanth-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:vaishnavnishanth3@gmail.com"><img src="https://img.shields.io/badge/-Email%20Me-c14438?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://github.com/vaishnavnishanth3"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
 </p>  
