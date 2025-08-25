@@ -36,8 +36,8 @@ I’m a passionate **developer from India 🇮🇳** who loves building scalable
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaishnav-Nishanth&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnav-Nishanth&layout=compact&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavnishanth3&show_icons=true&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavnishanth3&layout=compact&theme=radical" height="165">
 </p>  
 
 ---
