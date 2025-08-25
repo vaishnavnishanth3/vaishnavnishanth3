@@ -7,11 +7,9 @@ I’m a passionate **developer from India 🇮🇳** who loves building scalable
 ---
 
 ## 🌟 About Me  
-- 💻 Currently working as a **Full-Stack Developer** at **GGS Engineering Services** (client: **John Deere**)  
-- 🎓 On a journey to master **C, C++, Full-Stack, Data Science, and Quantum Computing**  
-- 📈 Exploring **Finance, MBA-level Business Knowledge**, and **Tech Entrepreneurship**  
-- 🏋️ On a mission: transforming myself (physically 💪 + mentally 🧠)  
-- 🌱 Always curious, always learning  
+- 💻 Currently working as a **Full-Stack Developer**
+- 🎓 On a journey to master **Full-Stack, Data Science, and Quantum Computing**
+- 🌱 Curious, always learning. Open to support on open source projects
 
 ---
 
