@@ -16,7 +16,7 @@ I’m a passionate **developer from India 🇮🇳** who loves building scalable
 ## 🛠️ Tech Stack  
 
 **Languages**  
-`JavaScript` | `TypeScript` | `Python` | `SQL`  
+`HTML` | `CSS` | `JavaScript` | `Python` | `SQL`  
 
 **Frontend**  
 `React.js` | `Next.js` | `HTML` | `CSS` | `Bootstrap`  
@@ -29,7 +29,7 @@ I’m a passionate **developer from India 🇮🇳** who loves building scalable
 `MongoDB` | `PostgreSQL` | `MySQL`  
 
 **Tools & Platforms**  
-`Git & GitHub` | `Docker` | `VS Code` | `Linux` | `Postman`  
+`Git & GitHub` | `VS Code` | `CLI` | `Linux` | `Postman`  
 
 ---
 
